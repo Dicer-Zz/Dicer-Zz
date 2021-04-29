@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dicer-Zz
-- 👀 I’m interested in **Computer Vision**
-- 🌱 I’m currently learning **Mechine Learning**
+- 👀 I’m interested in **NLP**
+- 🌱 I’m currently learning **Sentiment**
 - 📫 [Email to me](mailto:dicer0615@gmail.com)
 
 <!---
