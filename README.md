@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dicer-Zz
 - 👀 I’m interested in **NLP**
-- 🌱 I’m currently learning **Sentiment**
+- 🌱 I’m currently learning **Sentiment Analysis**
 - 📫 [Email to me](mailto:dicer0615@gmail.com)
 
 <!---
