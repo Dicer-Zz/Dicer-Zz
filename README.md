@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dicer-Zz
 - 👀 I’m interested in **NLP**
-- 🌱 I’m currently learning **Sentiment Analysis**
-- 📫 [Email to me](mailto:dicer0615@gmail.com)
+- 🌱 I’m currently learning at **ECNU**
+- 📫 [Email me](mailto:dicer0615@gmail.com)
 
 <!---
 Dicer-Zz/Dicer-Zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
