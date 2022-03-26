@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dicer0615@gmail.com)
  
 - 👀 I’m interested in **Natural Language Processing**.
-- 💻 I'm aiming to research **The Explainability of Pre-trained Language Models**
+- 💻 I'm aiming to research **The Explainability of Pre-trained Language Models** & **Chinese Grammatiacl Error Correction**
 - 🌱 I’m currently pursuing master degree in **Computer Science** at **East China Normal University**.
 
 # Github Stats
